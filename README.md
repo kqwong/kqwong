@@ -1,6 +1,6 @@
 # Hi, I'm Kai 👋
 
-**Solution Architect & Assistant Team Lead** @ [FCM Travel Asia](https://www.fcmtravel.com) · Flight Centre Travel Group  
+**Solution Architect & React Developer** @ [FCM Travel Asia](https://www.fcmtravel.com) · Flight Centre Travel Group  
 📍 Singapore · ✈️ Travel Tech · 🏗️ Systems Integration · 🤖 AI Infrastructure
 
 ---
