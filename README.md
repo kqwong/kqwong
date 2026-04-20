@@ -32,7 +32,7 @@ At FCM Travel Asia, I work across:
 
 **Cloud & Platform**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-0066FF?style=flat&logo=powerautomate&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
