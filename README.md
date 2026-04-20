@@ -10,7 +10,7 @@
 I sit at the intersection of **software engineering, system integration, and delivery leadership** in the travel industry. By day I'm designing integrations, leading sprints, and shipping features. By night I'm building out my own AI-powered personal infrastructure stack.
 
 At FCM Travel Asia, I work across:
-- **System integration** — Amadeus GDS, Citibank H2H SFTP, Adyen, SAP Concur, Dynamics 365
+- **System integration** — Amadeus GDS, SAP Concur, Dynamics 365
 - **App development** — PowerApps, Power Automate (RPA & cloud flows), React/TypeScript migrations
 - **Delivery lead** — Scrum, Jira board management, sprint reporting, team ramp-up
 
