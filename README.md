@@ -79,7 +79,7 @@ Inspired by the Amadeus PNR Chatbot architecture I built at work — now applyin
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/kai-qin-wong/))
 
 ---
 
